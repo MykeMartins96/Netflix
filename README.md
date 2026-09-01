@@ -1,53 +1,108 @@
-<h1>🎬 Clone da Netflix</h1>
+# 🎬 Clone da Netflix
 
-<h2>Projeto desenvolvido para recriar a interface da plataforma de streaming Netflix utilizando HTML, CSS e JavaScript.
+Projeto Front-End desenvolvido com **HTML5, CSS3 e JavaScript**, inspirado na interface da Netflix.
 
-O objetivo do projeto foi praticar construção de layouts modernos, estilização avançada e organização de interfaces inspiradas em aplicações reais.</h2>
+O objetivo do projeto foi praticar a construção de layouts modernos, organização de elementos visuais, responsividade e estilização de interfaces inspiradas em aplicações reais.
 
-<br>
+---
 
-<h1>🚀 Funcionalidades</h1>
+## 📸 Preview
 
-<h2>- 🎥 Layout inspirado na Netflix
-  <br>
-- 🖥️ Interface moderna e responsiva
-  <br>
-- 🔄 Navegação simples e intuitiva
-  <br>
-- 🎨 Estilização semelhante à plataforma original
-  <br>
-- 📱 Adaptação para diferentes dispositivos</h2>
+![Clone da Netflix](https://github.com/msm1996/Netflix/blob/main/assets/Captura%20de%20tela%202025-10-03%20190000.png?raw=true)
 
-<br>
+---
 
-<h1>🛠️ Tecnologias utilizadas</h1>
+## 🚀 Sobre o projeto
 
-<h2>- HTML5
-  <br>
-- CSS3
-  <br>
-- JavaScript</h2>
+O **Clone da Netflix** foi desenvolvido como um projeto de estudo para praticar conceitos fundamentais de desenvolvimento Front-End.
 
-<br>
+A aplicação recria elementos visuais inspirados em uma plataforma de streaming, trabalhando a organização do conteúdo, posicionamento dos elementos e adaptação da interface para diferentes tamanhos de tela.
 
-## 🧠 Aprendizados
+O foco do projeto está na construção da **interface**, não na reprodução das funcionalidades reais de streaming da plataforma.
 
-<h2>Neste projeto pratiquei:
-  <br>
-  <br>
-- Estruturação de layouts com HTML
-  <br>
-- Estilização avançada com CSS
-  <br>
+---
+
+## ✨ Funcionalidades
+
+- 🎬 Interface inspirada na Netflix
+- 🎥 Organização visual de conteúdos
+- 🖥️ Layout moderno
+- 🖱️ Interações com JavaScript
+- 📱 Interface responsiva
+- 🔄 Adaptação para diferentes tamanhos de tela
+
+---
+
+## 🛠 Tecnologias utilizadas
+
+- **HTML5** — estruturação da interface
+- **CSS3** — estilização, layout e responsividade
+- **JavaScript** — interatividade da aplicação
+- **DOM** — manipulação dos elementos da página
+
+---
+
+## 🧠 O que pratiquei neste projeto
+
+Durante o desenvolvimento deste projeto, pratiquei conceitos importantes de desenvolvimento Front-End, como:
+
+- Estruturação de páginas com HTML
+- Criação de layouts com CSS
+- Posicionamento de elementos
 - Responsividade
-  <br>
 - Organização de interfaces
-  <br>
 - Manipulação do DOM
-  <br>
-- Criação de páginas inspiradas em aplicações reais</h2>
+- Eventos com JavaScript
+- Estruturação visual de conteúdos
+- Desenvolvimento de interfaces inspiradas em aplicações reais
 
-<br>
+---
 
-<h2>📸 Imagem do projeto:</h2> 
-<img  src= "https://github.com/msm1996/Netflix/blob/main/assets/Captura%20de%20tela%202025-10-03%20190000.png?raw=true">
+## 🎯 Objetivo do projeto
+
+O principal objetivo foi praticar a transformação de uma referência visual em uma interface web utilizando tecnologias fundamentais do Front-End.
+
+Esse processo ajudou a desenvolver conhecimentos relacionados à estruturação, estilização e organização visual de aplicações web.
+
+---
+
+## 💻 Como executar o projeto
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/msm1996/Netflix.git
+```
+
+Entre na pasta:
+
+```bash
+cd Netflix
+```
+
+Abra o arquivo:
+
+```text
+index.html
+```
+
+no navegador.
+
+---
+
+## ⚠️ Observação
+
+Este projeto foi desenvolvido exclusivamente para **fins educacionais e de estudo**.
+
+A aplicação é inspirada visualmente na Netflix e não possui vínculo oficial com a plataforma.
+
+---
+
+## 👨‍💻 Autor
+
+**Myke Santana Martins**
+
+Desenvolvedor Front-End em formação, criando projetos com foco em **React.js, JavaScript, HTML5, CSS3 e integração com APIs REST**.
+
+- GitHub: https://github.com/MykeMartins96
+- LinkedIn: https://www.linkedin.com/in/myke-santana-martins
